@@ -1,0 +1,1 @@
+# Configuration example for runnig by Kubernetes
